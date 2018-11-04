@@ -8,5 +8,8 @@
 <h4><dd> <em>Patreon.com</em> este tot un produs prin intermediul carora se pot vizualiza lucrari ale artistilor contra cost.</dd></h4>
 <h4><dd> Produsul nostru este similar cu cele expuse prin prisma redarii de continut al artiatilor, insa se diferentiază prin faptul ca beneficiaza de  rapiditate in oferirea  informatiilor  dorite de utilizator.</dd></h4>
 
+![alt text](https://github.com/bdMirela/Tehnologi_web-Faza2/blob/master/aRTsTUD.png)
+
+
 
 
